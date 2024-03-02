@@ -1,0 +1,8 @@
+width: 120px;
+    height: 33px;
+    font-size: 15px;
+    background-color: rgb(255,111,97);
+    border: none;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
